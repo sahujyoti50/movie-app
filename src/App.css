@@ -1,0 +1,21 @@
+.movie-list-div {
+  width: 50%;
+  border-right: 1px solid lightgrey;
+}
+.movies-body{
+    border: 1px solid lightgrey;
+    height: 60px;
+    display: flex;
+    background-color: #F5F5F5;
+}
+.movie-div{
+  display: flex;
+  height: 760px;
+}
+.movie-details-div{
+  width: 50%;
+ 
+}
+.movie-body{
+  display: block;
+}

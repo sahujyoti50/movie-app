@@ -1,0 +1,21 @@
+.movie-list{
+    width: 100%;
+    border-collapse: collapse;
+    
+ 
+}
+
+ .movie-list tr {
+     border: 1px solid lightgrey;
+ }
+ 
+ .movie-list td {
+   padding:15px 15px;
+   text-align: left;
+   color:rgb(33, 30, 33);
+   font-size:15px;
+ }
+ 
+ .movie-list tr:hover {
+    box-shadow: 2px 2px 3px grey /* or whatever colour you'd prefer */
+}
